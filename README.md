@@ -15,6 +15,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **102.** [How Markovian Lifting Solves the Rough Volatility Problem](https://youtu.be/Cr7kBSPqD8A)
 - **101.** [Stop Using the Sharpe Ratio Until You Watch This](https://youtu.be/NJ5PNfIQHrE)
 
 **Previous:**
