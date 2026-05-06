@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
+- **108.** [Ultimate Options Trading Crash Course](https://youtu.be/-lQdlJh8cCE)
 - **107.** [How to Trade Options with the Black-Scholes Model](https://youtu.be/1OByexsEJXc)
 - **106.** [How to Trade the Covered Call](https://youtu.be/iPsPRQlDeTA)
 
