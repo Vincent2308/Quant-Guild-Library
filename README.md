@@ -17,9 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **113.** [How to Trade the Cash Secured Put](https://youtu.be/mFovTf-TMvw)
+- **115.** [How a Quant Engineers a Portfolio](https://youtu.be/ztQNQBP3MIc)
 
 **Previous:**
+- **114.** [Modeling with the Law of Total Expectation](https://youtu.be/-CPUbalMh14)
+- **113.** [How to Trade the Cash Secured Put](https://youtu.be/mFovTf-TMvw)
 - **112.** [Why your Trading Strategy Sucks](https://youtu.be/8kBpVelo9Tg)
 - **111.** [The Mathematical Delusion of Retail Trading](https://youtu.be/RBfc8SkRwwU)
 - **110.** [Coding an AI Bot to Trade Nvidia (From Scratch)](https://youtu.be/qKCjatq9CZM)
