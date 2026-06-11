@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **116.** [The S&P 500 Lie Retail Investors Believe](https://youtu.be/sgbEkAYAdwk)
-- **115.** [How a Quant Engineers a Portfolio](https://youtu.be/ztQNQBP3MIc)
+- **117.** [What Exactly is Volatility Drag](https://youtu.be/Soea_7rzkR8)
 
 **Previous:**
+- **116.** [The S&P 500 Lie Retail Investors Believe](https://youtu.be/sgbEkAYAdwk)
+- **115.** [How a Quant Engineers a Portfolio](https://youtu.be/ztQNQBP3MIc)
 - **114.** [Modeling with the Law of Total Expectation](https://youtu.be/-CPUbalMh14)
 - **113.** [How to Trade the Cash Secured Put](https://youtu.be/mFovTf-TMvw)
 - **112.** [Why your Trading Strategy Sucks](https://youtu.be/8kBpVelo9Tg)
