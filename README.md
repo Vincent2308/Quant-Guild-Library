@@ -15,10 +15,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **118.** [No. You don't need to backtest a trading strategy.](https://youtu.be/KD_fh_jA_iQ)
-- **117.** [What Exactly is Volatility Drag](https://youtu.be/Soea_7rzkR8)
+- **119.** [Volatility Risk Premium Explained: Implied vs Realized Volatility](https://youtu.be/kmAE9ZhQ0jU)
 
 **Previous:**
+- **118.** [No. You don't need to backtest a trading strategy.](https://youtu.be/KD_fh_jA_iQ)
+- **117.** [What Exactly is Volatility Drag](https://youtu.be/Soea_7rzkR8)
 - **116.** [The S&P 500 Lie Retail Investors Believe](https://youtu.be/sgbEkAYAdwk)
 - **115.** [How a Quant Engineers a Portfolio](https://youtu.be/ztQNQBP3MIc)
 - **114.** [Modeling with the Law of Total Expectation](https://youtu.be/-CPUbalMh14)
