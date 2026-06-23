@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **120.** [I Met a Jane Street Quant at the Gym (He Got This Wrong)](https://youtu.be/E73rL7Hex-k)
-- **119.** [Volatility Risk Premium Explained: Implied vs Realized Volatility](https://youtu.be/kmAE9ZhQ0jU)
+- **121.** [Stock Picking is Worse than Gambling at a Casino (I Can Prove It)](https://youtu.be/E2PuxT_SucA)
 
 **Previous:**
+- **120.** [I Met a Jane Street Quant at the Gym (He Got This Wrong)](https://youtu.be/E73rL7Hex-k)
+- **119.** [Volatility Risk Premium Explained: Implied vs Realized Volatility](https://youtu.be/kmAE9ZhQ0jU)
 - **118.** [No. You don't need to backtest a trading strategy.](https://youtu.be/KD_fh_jA_iQ)
 - **117.** [What Exactly is Volatility Drag](https://youtu.be/Soea_7rzkR8)
 - **116.** [The S&P 500 Lie Retail Investors Believe](https://youtu.be/sgbEkAYAdwk)
